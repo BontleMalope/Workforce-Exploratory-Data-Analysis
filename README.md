@@ -2,7 +2,6 @@
 
 An end-to-end analysis of an anonymised employee dataset for a fictional retail chain. The project covers data cleaning in PostgreSQL, an EDA report, and an interactive Power BI dashboard, focused on **workforce composition, tenure and 2025 absence patterns**.
 
-![Power BI dashboard](images/dashboard_preview.png)
 
 ## Dataset
 
